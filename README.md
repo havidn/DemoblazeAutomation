@@ -51,7 +51,9 @@ Feature: Add To Cart
     |Iphone 6 32gb|
     |MacBook air  |
 ```
-  
+## Documentation 
+* [Test Design](https://docs.google.com/spreadsheets/d/1lYwb405XkWuO6ohBNG2_DvCE9HolVnbWm-hKz6SS6A4/edit#gid=0)
+* [Bug Report](https://docs.google.com/document/d/1roOGQjOy0szI7uMnM9RhD59gr9veT3zD6N46rkm3KZw/edit)
 
 <!-- CONTACT -->
 ## Contact
